@@ -37,7 +37,7 @@ Sri Venkateswara University College of Engineering, 2026
 
 ### **A Simple Calculator**
 * **Role:** Team Member
-* **Duration:** January 2022 - June 2022
+* **Duration:** January 2024 - June 2024
 * **Technologies Used:** HTML, CSS, JavaScript
 * **Description:** Created a simple calculator based on a YouTube tutorial.
 
